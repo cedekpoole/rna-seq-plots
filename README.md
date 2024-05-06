@@ -23,11 +23,11 @@ Several CSV files are provided so that that you can download and then upload dir
 
 ### Downloading the Data
 
-To download the data, navigate to the `examples/data` folder in this repository. Here you will find the following CSV files:
+To download the data, navigate to the `examples/data` folder in [this repository](https://github.com/cedekpoole/rna-seq-plots). Here you will find the following CSV files:
 
-- **Volcano Plot Data (`volcano-plot/volcano_plot_input.csv`)**: Used for generating volcano plots. [Download this file here](https://github.com/yourusername/yourrepository/examples/data/volcano_plot_input.csv).
-- **Sample Data File (`pca-plot/sample_vsd_counts.csv`)**: Used in the 'upload your data file' input of the PCA plot. [Download this file here](https://github.com/yourusername/yourrepository/examples/data/sample_vsd_counts.csv).
-- **Experimental Condition File (`pca-plot/design_table.csv`)**: Used as the 'experimental condition file' input for the PCA plot. [Download this file here](https://github.com/yourusername/yourrepository/examples/data/design_table.csv).
+- **Volcano Plot Data (`volcano-plot/volcano_plot_input.csv`)**: Used for generating volcano plots. [Download this file here](https://github.com/cedekpoole/rna-seq-plots/blob/main/examples/data/volcano-plot/volcano_plot_input.csv).
+- **Sample Data File (`pca-plot/sample_vsd_counts.csv`)**: Used in the 'upload your data file' input of the PCA plot. [Download this file here](https://github.com/cedekpoole/rna-seq-plots/blob/main/examples/data/pca-plot/sample_vsd_counts.csv).
+- **Experimental Condition File (`pca-plot/design_table.csv`)**: Used as the 'experimental condition file' input for the PCA plot. [Download this file here](https://github.com/cedekpoole/rna-seq-plots/blob/main/examples/data/pca-plot/design_table.csv).
 
 ### How to Upload the Data
 
