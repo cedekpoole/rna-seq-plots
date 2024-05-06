@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-slider .bp5-intent-primary {
+  background: rgb(60, 89, 194); /* Change the background color */
+}
+
+.highcharts-tracker {
+  cursor: pointer;
+}
+
+.bp5-menu {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+
+.file-input>.bp5-file-upload-input {
+  border-radius: 3px !important;
+}
+
+.file-input>.bp5-file-upload-input::after {
+  background-color: rgb(60, 89, 193) !important;
+  color: rgb(255, 255, 255) !important;
+  border-radius: 3px !important;
+  font-weight: 300 !important;
+  font-size: 13px !important;
+  border: 0.5px solid #5E9BED !important;
+}
+
+.file-input>.bp5-file-upload-input:hover::after {
+  background-color: rgba(60, 89, 193, 0.9) !important;
+}
+
+.bp5-icon-download svg {
+  fill: rgb(60, 89, 193) !important;
+}
+

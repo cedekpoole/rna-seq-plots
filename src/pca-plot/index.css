@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.input>.bp5-file-upload-input {
+    border-radius: 3px !important;
+}
+
+.input>.bp5-file-upload-input::after {
+    background-color: rgb(60, 89, 193) !important;
+    color: rgb(255, 255, 255) !important;
+    border-radius: 3px !important;
+    font-weight: 300 !important;
+    font-size: 13px !important;
+    border: 0.5px solid #5E9BED !important;
+}
+
+.input>.bp5-file-upload-input:hover::after {
+    background-color: rgba(60, 89, 193, 0.9) !important;
+}
+
+.bp5-html-select select, .bp5-select select {
+    background-color: #EFEFEF !important;
+    color: #5A627D !important;
+}
+
+.bp5-icon-download svg  {
+    fill: rgb(60, 89, 193) !important;
+  }
